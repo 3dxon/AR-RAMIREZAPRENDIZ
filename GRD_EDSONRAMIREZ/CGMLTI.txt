@@ -1,8 +1,7 @@
-<<<<<<< HEAD
  
  Oferta academica del centro de gestion de mercados, logistica y tecnologias de la informacion
  -teleinformatica
  -logistica
  -mercadeo
-=======
->>>>>>> parent of 5d8841b (actualizacion de oferta)
+ -industrias creativas
+ -formacion complementaria
